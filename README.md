@@ -1,79 +1,95 @@
-<h1 align="center">addtion99</h1>
+```text
+              __    __  __  __           
+  ____ _____ / /___/ /_/ /_/ /___  ____ 
+ / __ `/ __ `/ / __  / __/ __/ __ \/ __ \
+/ /_/ / /_/ / / /_/ / /_/ /_/ /_/ / / / /
+\__,_/\__,_/_/\__,_/\__/\__/\____/_/ /_/ 
+                                        
+```
 
-<p align="center">
-Building tools that make code easier to understand.
-</p>
+```bash
+$ whoami
+addtion99
 
-<p align="center">
-Developer Tools · AI-assisted Programming · Code Comprehension
-</p>
+$ role
+Developer building tools that make code easier to understand
 
----
+$ location
+China
 
-## About
+$ languages
+Chinese (native)
+English (working)
 
-Computer Science undergraduate focused on building practical software tools.
+$ interests
+developer-tools
+ai-assisted-programming
+code-comprehension
+software-engineering-workflows
+developer-productivity
 
-Interested in the intersection of:
+$ current_project
+Code Decode
 
-- Developer Experience
-- AI-assisted programming
-- Code understanding
-- Software engineering workflows
+$ cat code-decode.txt
+VS Code extension that translates identifiers into natural language
+to help developers understand unfamiliar codebases faster.
 
-I enjoy building tools that reduce the cognitive load of reading unfamiliar codebases.
+Features:
+- semantic token based identifier extraction
+- non-invasive inlay translation rendering
+- split view pseudo-code translation
+- incremental workspace indexing
+- multi-model AI provider support
+- privacy-preserving translation (identifier-only)
 
----
+$ ls projects
+code-decode
+labelme-ai-contributions
+internal-dev-tools
 
-### Internal Productivity Tools
+$ cat projects/code-decode
+VS Code extension
+AI-assisted identifier translation
+100+ downloads on VS Code Marketplace
 
-Built several small utilities used in computer vision annotation workflows.
+$ cat projects/labelme-ai-contributions
+Improved usability of an AI-assisted image annotation tool
+based on Labelme.
 
-Examples include:
+Work included:
+- annotation workflow improvements
+- polygon validation logic
+- label synchronization fixes
+- UI behavior improvements
+
+$ cat projects/internal-dev-tools
+Small utilities for computer vision annotation workflows:
 
 - dataset cleanup scripts
-- label configuration synchronization tools
+- label configuration sync tools
 - annotation validation utilities
 - batch image processing scripts
 - dataset statistics tools
 
-These tools helped reduce repetitive manual operations in annotation pipelines.
-
----
-
-## Tech Stack
-
-Languages
-
-```
-java
+$ stack
 TypeScript
 Python
-```
+Node.js
+VS Code Extension API
+OpenAI-compatible APIs
+Gemini
+DeepSeek
+Git
 
----
+$ philosophy
+AI should augment developers, not replace them.
 
-## Development Philosophy
-
-The goal of AI in software engineering is not to replace developers.
-
-The goal is to **augment how developers interact with code**.
-
-Areas of interest:
-
+Focus:
 - developer productivity
-- code comprehension
-- human-AI collaboration in programming
-- developer tooling
-
----
-
-## Current Focus
-
-- developer productivity tools
-- AI-assisted code reading
 - codebase comprehension
-- software engineering workflows
+- human-AI collaboration in programming
 
----
-
+$ contact
+email: a992361951@gmail.com
+```
