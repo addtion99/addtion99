@@ -1,121 +1,79 @@
-addtion99
-Developer building tools that make code easier to understand.
+<h1 align="center">addtion99</h1>
 
-Computer Science undergraduate focused on:
+<p align="center">
+Building tools that make code easier to understand.
+</p>
 
-Developer Tools
+<p align="center">
+Developer Tools · AI-assisted Programming · Code Comprehension
+</p>
 
-AI-assisted programming
+---
 
-Code comprehension
+## About
 
-Practical software engineering
+Computer Science undergraduate focused on building practical software tools.
 
-I enjoy building things that reduce cognitive load for developers.
+Interested in the intersection of:
 
-Selected Work
-Code Decode
+- Developer Experience
+- AI-assisted programming
+- Code understanding
+- Software engineering workflows
 
-AI-powered VS Code extension for understanding source code.
+I enjoy building tools that reduce the cognitive load of reading unfamiliar codebases.
 
-Translates identifiers only (variables, functions, classes) into natural language while preserving syntax.
+---
 
-Designed to help developers read unfamiliar codebases faster.
+### Internal Productivity Tools
 
-Key ideas
+Built several small utilities used in computer vision annotation workflows.
 
-semantic-token based identifier extraction
+Examples include:
 
-non-invasive inlay rendering
+- dataset cleanup scripts
+- label configuration synchronization tools
+- annotation validation utilities
+- batch image processing scripts
+- dataset statistics tools
 
-split-view pseudo translation
+These tools helped reduce repetitive manual operations in annotation pipelines.
 
-incremental workspace indexing
+---
 
-privacy-preserving translation (identifier only)
+## Tech Stack
 
-Status
-
-VS Code Marketplace extension
-100+ downloads
-
-Repository
-https://github.com/addtion99/code-decode
-
-Labelme-AI Contributions
-
-Improved usability and workflow for an AI-assisted image annotation tool.
-
-Based on
-https://github.com/wkentaro/labelme
-
-Work included:
-
-annotation interaction improvements
-
-polygon creation validation
-
-label synchronization logic
-
-UI behaviour fixes
-
-workflow optimizations for large datasets
-
-Repository
-https://github.com/dl-cv/labelme-ai
-
-Internal Productivity Tools
-
-During computer vision annotation workflows I built small utilities for:
-
-label file validation
-
-batch image operations
-
-annotation dataset cleanup
-
-label configuration synchronization
-
-dataset statistics scripts
-
-These tools reduced repetitive manual operations in annotation pipelines.
-
-Tech Stack
 Languages
+
+```
+java
 TypeScript
 Python
+```
 
-Developer Tooling
-VS Code Extension API
-Node.js
-Git
+---
 
-AI Integration
-OpenAI compatible APIs
-Gemini
-DeepSeek
+## Development Philosophy
 
-Other
-CLI tools
-automation scripts
-developer utilities
-Development Philosophy
+The goal of AI in software engineering is not to replace developers.
 
-I am interested in the intersection of:
+The goal is to **augment how developers interact with code**.
 
-AI × Software Engineering
-Developer Experience
-Code Understanding
+Areas of interest:
 
-The goal is not replacing developers with AI,
-but augmenting how developers interact with code.
+- developer productivity
+- code comprehension
+- human-AI collaboration in programming
+- developer tooling
 
-Current Focus
+---
 
-developer productivity tools
+## Current Focus
 
-AI assisted code reading
+- developer productivity tools
+- AI-assisted code reading
+- codebase comprehension
+- software engineering workflows
 
-codebase comprehension
+---
 
-software engineering workflows
