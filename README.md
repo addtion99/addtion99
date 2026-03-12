@@ -4,92 +4,104 @@
  / __ `/ __ `/ / __  / __/ __/ __ \/ __ \
 / /_/ / /_/ / / /_/ / /_/ /_/ /_/ / / / /
 \__,_/\__,_/_/\__,_/\__/\__/\____/_/ /_/ 
-                                        
+                                          
+                 addtion99
 ```
 
 ```bash
 $ whoami
 addtion99
+```
 
-$ role
-Developer building tools that make code easier to understand
-
+```bash
 $ location
 China
+```
 
+```bash
 $ languages
 Chinese (native)
 English (working)
+```
 
+```bash
 $ interests
 developer-tools
 ai-assisted-programming
 code-comprehension
 software-engineering-workflows
 developer-productivity
+```
 
-$ current_project
+```bash
+$ current-project
 Code Decode
+```
 
+```bash
 $ cat code-decode.txt
 VS Code extension that translates identifiers into natural language
 to help developers understand unfamiliar codebases faster.
 
 Features:
 - semantic token based identifier extraction
-- non-invasive inlay translation rendering
-- split view pseudo-code translation
+- inlay translation rendering
+- split view pseudo translation
 - incremental workspace indexing
-- multi-model AI provider support
-- privacy-preserving translation (identifier-only)
+- multi-model AI support
+- privacy preserving identifier-only translation
+```
 
+```bash
 $ ls projects
 code-decode
 labelme-ai-contributions
 internal-dev-tools
+```
 
+```bash
 $ cat projects/code-decode
 VS Code extension
 AI-assisted identifier translation
 100+ downloads on VS Code Marketplace
+```
 
-$ cat projects/labelme-ai-contributions
-Improved usability of an AI-assisted image annotation tool
-based on Labelme.
-
-Work included:
-- annotation workflow improvements
-- polygon validation logic
-- label synchronization fixes
-- UI behavior improvements
-
-$ cat projects/internal-dev-tools
-Small utilities for computer vision annotation workflows:
+```bash
+$ cat projects/internal-tools
+Utilities used in annotation workflows:
 
 - dataset cleanup scripts
 - label configuration sync tools
 - annotation validation utilities
 - batch image processing scripts
 - dataset statistics tools
+```
 
+```bash
 $ stack
+Java
+Go
 TypeScript
 Python
-Node.js
-VS Code Extension API
-OpenAI-compatible APIs
-Gemini
-DeepSeek
-Git
+```
 
+```bash
 $ philosophy
 AI should augment developers, not replace them.
 
 Focus:
-- developer productivity
-- codebase comprehension
-- human-AI collaboration in programming
+developer productivity
+codebase comprehension
+human-AI collaboration in programming
+```
 
-$ contact
-email: a992361951@gmail.com
+```bash
+$ tree ~/addtion99
+
+addtion99
+├── developer-tools
+│   └── Code Decode
+├── ai-assisted-programming
+├── code-comprehension
+└── productivity-tools
 ```
