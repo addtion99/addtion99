@@ -1,107 +1,100 @@
+````markdown
+# addtion99
+
 ```text
               __    __  __  __           
   ____ _____ / /___/ /_/ /_/ /___  ____ 
  / __ `/ __ `/ / __  / __/ __/ __ \/ __ \
 / /_/ / /_/ / / /_/ / /_/ /_/ /_/ / / / /
 \__,_/\__,_/_/\__,_/\__/\__/\____/_/ /_/ 
-                                          
-                 addtion99
+````
+
+## Hi there 👋
+
+Hi! I'm **addtion99**
+
+🤠 He 
+🎈 Based in China
+💻 Interested in **developer tools**
+
+🤔 Languages
+
+* Chinese (native)
+* English (working)
+
+🛟 I enjoy discovering interesting software and developer tools.
+
+🎮 Currently playing **Street Fight 6**
+
+---
+
+# 🚀 Current Project
+
+## Code Decode
+
+> VS Code extension that helps developers understand unfamiliar codebases.
+
+**Idea**
+
+Translate identifiers into natural language so developers can read code faster.
+
+**Features**
+
+* semantic token based identifier extraction
+* inlay translation rendering
+* split-view pseudo translation
+* incremental workspace indexing
+* multi-model AI support
+* privacy-preserving identifier-only translation
+
+---
+
+# 🧰 Tech Stack
+
 ```
-
-```bash
-$ whoami
-addtion99
-```
-
-```bash
-$ location
-China
-```
-
-```bash
-$ languages
-Chinese (native)
-English (working)
-```
-
-```bash
-$ interests
-developer-tools
-ai-assisted-programming
-code-comprehension
-software-engineering-workflows
-developer-productivity
-```
-
-```bash
-$ current-project
-Code Decode
-```
-
-```bash
-$ cat code-decode.txt
-VS Code extension that translates identifiers into natural language
-to help developers understand unfamiliar codebases faster.
-
-Features:
-- semantic token based identifier extraction
-- inlay translation rendering
-- split view pseudo translation
-- incremental workspace indexing
-- multi-model AI support
-- privacy preserving identifier-only translation
-```
-
-```bash
-$ ls projects
-code-decode
-labelme-ai-contributions
-internal-dev-tools
-```
-
-```bash
-$ cat projects/code-decode
-VS Code extension
-AI-assisted identifier translation
-100+ downloads on VS Code Marketplace
-```
-
-```bash
-$ cat projects/internal-tools
-Utilities used in annotation workflows:
-
-- dataset cleanup scripts
-- label configuration sync tools
-- annotation validation utilities
-- batch image processing scripts
-- dataset statistics tools
-```
-
-```bash
-$ stack
 Java
 Go
 TypeScript
 Python
 ```
 
-```bash
-$ philosophy
-AI should augment developers, not replace them.
+Focus areas:
+
+* developer tools
+* AI-assisted programming
+* code comprehension
+* software engineering workflows
+
+---
+
+# 📦 Projects
+
+### Code Decode
+
+VS Code extension for AI-assisted identifier translation
+100+ downloads on VS Code Marketplace
+
+### Internal Dev Tools
+
+Utilities used in dataset and annotation workflows
+
+* dataset cleanup scripts
+* label configuration sync tools
+* annotation validation utilities
+* batch image processing scripts
+* dataset statistics tools
+
+---
+
+# 🧠 Philosophy
+
+AI should **augment developers**, not replace them.
 
 Focus:
-developer productivity
-codebase comprehension
-human-AI collaboration in programming
-```
 
-```bash
-$ tree ~/addtion99
+* developer productivity
+* codebase comprehension
+* human–AI collaboration in programming
 
-addtion99
-├── developer-tools
-│   └── Code Decode
-├── ai-assisted-programming
-├── code-comprehension
-└── productivity-tools
-```
+---
+
