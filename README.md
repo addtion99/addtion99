@@ -8,10 +8,7 @@
 </pre>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+addtion99&font=Fira+Code&center=true&width=400" alt="Typing SVG" />
-</p>
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Hi!+I'm+addtion99)
 ---
 
 ### 🤠 Profile
@@ -46,18 +43,6 @@
 
 ---
 
-### 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=addtion99&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=9f9f9f" height="150" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addtion99&layout=compact&theme=transparent&hide_border=true&title_color=3178C6&text_color=9f9f9f" height="150" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=addtion99&theme=github-compact&hide_border=true&area=true&color=3178C6" width="100%" alt="Activity Graph" />
-</p>
-
----
-
 ### 🧠 Philosophy
 > **AI should augment developers, not replace them.**
 
@@ -65,8 +50,3 @@
 * 📖 **Codebase Comprehension** 
 * 🤝 **Human–AI Collaboration** 
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=addtion99&label=Profile%20Views&color=3178C6&style=flat-square" alt="Views" />
-</p>
