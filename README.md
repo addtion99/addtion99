@@ -65,25 +65,6 @@ Focus areas:
 
 ---
 
-# 📦 Projects
-
-### Code Decode
-
-VS Code extension for AI-assisted identifier translation
-100+ downloads on VS Code Marketplace
-
-### Internal Dev Tools
-
-Utilities used in dataset and annotation workflows
-
-* dataset cleanup scripts
-* label configuration sync tools
-* annotation validation utilities
-* batch image processing scripts
-* dataset statistics tools
-
----
-
 # 🧠 Philosophy
 
 AI should **augment developers**, not replace them.
