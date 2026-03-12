@@ -15,7 +15,7 @@
 * 🎈 **Location:** Based in China
 * 💻 **Focus:** Interested in **developer tools** & **AI-assisted programming**
 * 🎮 **Gaming:** Currently playing **Street Fighter 6**
-* 🤔 **Languages:** * Chinese (Native)
+* 🤔 **Languages:** Chinese (Native)
   * English (Working)
 
 ---
