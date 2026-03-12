@@ -8,7 +8,7 @@
 </pre>
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+I'm+addtion99+👋;enjoy+your+stay)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+,+I'm+addtion99+👋;Enjoy+your+stay)
 ---
 
 ### 🤠 Profile
