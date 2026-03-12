@@ -7,9 +7,7 @@
 \__,_/\__,_/_/\__,_/\__/\__/\____/_/ /_/ 
 ````
 
-## Hi there 👋
-
-Hi! I'm **addtion99**
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Hi!+I'm+addtion99)
 
 🤠 He 
 🎈 Based in China
