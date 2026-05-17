@@ -18,15 +18,6 @@
 * 🤔 **Languages:** Chinese (Native)
   * English (Working)
 
----
-
-### 🚀 Current Project: **Code Decode**
-> VS Code extension that helps developers understand unfamiliar codebases.
-
-* **Idea:** Translate identifiers into natural language so developers can read code faster.
-* **Key Features:** Semantic token based identifier extraction
-  * Inlay translation rendering
-  * Multi-model AI support & Privacy-preserving
 
 ---
 
